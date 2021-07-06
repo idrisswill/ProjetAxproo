@@ -1,12 +1,14 @@
 {
-	"name": "codeigniter4/appstarter",
+	"name": "axproo/axprooappcrm",
 	"type": "project",
-	"description": "CodeIgniter4 starter app",
-	"homepage": "https://codeigniter.com",
-	"license": "MIT",
+	"description": "code source du projet de creation d'un crm",
+	"homepage": "https://axproo.com",
+	"license": "proprietary",
 	"require": {
 		"php": "^7.4||^8.0",
-		"codeigniter4/framework": "^4"
+		"codeigniter4/framework": "^4",
+		"daycry/doctrine": "^1.3",
+		"twig/twig": "^3.0"
 	},
 	"require-dev": {
 		"fakerphp/faker": "^1.9",
